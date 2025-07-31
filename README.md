@@ -1,6 +1,6 @@
 # ToDo APP UI
 
-![alt text](todo-app-project/app.png)
+![alt text](app.png)
 
 # Getting Started with Create React App
 
